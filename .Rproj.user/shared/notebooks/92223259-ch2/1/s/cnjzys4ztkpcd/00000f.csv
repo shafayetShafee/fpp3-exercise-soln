@@ -1,0 +1,1 @@
+"0","gafa_stock %>% autoplot(Close) + labs(x = NULL)"

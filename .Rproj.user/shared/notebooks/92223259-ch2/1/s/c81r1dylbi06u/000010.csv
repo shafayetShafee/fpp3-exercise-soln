@@ -1,0 +1,4 @@
+"0","us_total %>% "
+"0","  as_tsibble(index = year, key = state) -> ts_us_total"
+"0",""
+"0","ts_us_total"

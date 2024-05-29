@@ -1,0 +1,26 @@
+{
+    "id": "48B03172",
+    "path": "~/Documents/fpp3-exercise-soln/ch2.qmd",
+    "project_path": "ch2.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1714214020705.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "179,5",
+        "scrollLine": "0"
+    },
+    "folds": "2|6|6|0|\n9|27|54|0|\n29|6|31|0|\n36|6|38|0|\n45|6|52|0|\n55|14|66|0|\n59|6|64|0|\n67|13|108|0|\n74|6|78|0|\n80|6|86|0|\n89|6|92|0|\n94|6|99|0|\n101|6|107|0|\n",
+    "lastKnownWriteTime": 1714244251,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1714244251710,
+    "read_only": false,
+    "read_only_alternatives": []
+}

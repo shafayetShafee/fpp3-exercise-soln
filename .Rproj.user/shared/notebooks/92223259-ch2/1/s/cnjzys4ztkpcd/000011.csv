@@ -1,0 +1,3 @@
+"0","vic_elec %>% "
+"0","  autoplot(Demand) +"
+"0","  labs(title = ""Time series of Demand from vic_elec"", x = NULL)"
