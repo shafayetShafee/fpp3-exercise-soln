@@ -1,5 +1,0 @@
-"0","tourism_ts %>% "
-"0","  group_by(State) %>% "
-"0","  summarise(trips = sum(Trips), .groups = ""drop"") -> trips_by_state"
-"0",""
-"0","trips_by_state"

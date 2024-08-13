@@ -1,2 +1,0 @@
-"0","tourism_xl <- readxl::read_excel(""data/tourism.xlsx"")"
-"0","head(tourism_xl)"

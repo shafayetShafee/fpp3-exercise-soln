@@ -1,5 +1,0 @@
-"0","tourism_xl %>% "
-"0","  mutate(Quarter = yearquarter(Quarter)) %>% "
-"0","  as_tsibble(index = Quarter, key = c(Region, State, Purpose)) -> tourism_ts"
-"0",""
-"0","tourism_ts"
